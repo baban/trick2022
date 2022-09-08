@@ -1,6 +1,8 @@
 # trick2022
 trick2022に応募して落選したコードの墓標です
 
+https://github.com/tric/trick2022
+
 ### Remarks
 
 以下のコマンドで、引数で指定されたファイルにある数独の問題を解きます。
