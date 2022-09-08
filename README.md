@@ -17,8 +17,6 @@ $ ruby -l -F" " -r ./suudoku.rb -W1 -a -n entry.rb problem.txt new_problem.txt
 
 同じファイル名を指定すれば、問題を入れ替える事が出来ます
 
-You can change questions by specifying the same file name
-
 ```
 $ ruby -l -F" " -r ./suudoku.rb -W1 -a -n entry.rb problem.txt problem.txt
 ```
